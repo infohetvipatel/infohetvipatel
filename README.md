@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hetvi Patel!
 
-I'm a passionate Data Engineer and AI enthusiast, currently pursuing my Master's in Information Technology at Arizona State University. I love transforming raw data into meaningful insights and crafting data stories. Here's a glimpse of what I do:
+I'm a dedicated technologist currently pursuing my Master's in Information Technology at Arizona State University. My passion spans a spectrum of roles, including Data Engineering, Data Analysis, Software Development, and Web Development. I find joy in transforming raw data into meaningful insights and crafting data stories. Here's a glimpse into my versatile skill set:
 
 ## 🚀 Key Skills
 - **Languages:** Python, SQL, Java, C/C++, PHP, HTML, CSS
